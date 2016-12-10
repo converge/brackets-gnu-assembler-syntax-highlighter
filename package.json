@@ -1,0 +1,23 @@
+
+{
+    "name": "brackets-assembly-syntax-highlighter",
+    "title": "Assembly Syntax Highlighter",
+    "description": "Brings support for Assembly language from CodeMirror to Brackets.",
+    "homepage": "https://github.com/converge/brackets-assembly-syntax-highlighter",
+    "version": "0.1.0",
+    "author": "João Vanzuita",
+    "homepage": "https://github.com/converge",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/converge/brackets-assembly-syntax-highlighter"
+    },
+    "keywords": [
+        "assembly",
+        "asm"
+    ],
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "categories": "language",
+    "engines": {
+        "brackets": ">=0.40.0"
+    }
+}
